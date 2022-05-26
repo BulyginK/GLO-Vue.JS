@@ -1,16 +1,10 @@
 <template>
-  <div id="app">
-    Hello Vue.JS
-  </div>
+  <div id="app">Hello Vue.JS</div>
 </template>
 
 <script>
-
-export default {
-
-}
+export default {};
 </script>
 
 <style>
-
 </style>
